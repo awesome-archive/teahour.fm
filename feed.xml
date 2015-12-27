@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 16 Nov 2015 00:00:00 +0800</updated>
-    <lastBuildDate>Mon, 16 Nov 2015 00:00:00 +0800</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2015 00:00:00 +0800</pubDate>
+    <updated>Sun, 27 Dec 2015 00:00:00 +0800</updated>
+    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0800</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,83 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#82 聊聊比特币背后的技术和Blockchain</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 和他聊聊比特币背后的技术, 分布式系统, 算法以及Blockchain.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;archlinux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/baskerville/bspwm"&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plan9.bell-labs.com/plan9/"&gt;plan9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/hut/ranger"&gt;ranger&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://qr.ae/RgRRFb"&gt;Is bitcoinn a good idea?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merkle_tree"&gt;Merkle tree&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Linked_list"&gt;Linked list&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hash_list"&gt;Hash List&lt;/a&gt;&lt;/li&gt;
+   ...&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学 “专注 IT 领域远程学徒式” 教育。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 和他聊聊比特币背后的技术, 分布式系统, 算法以及Blockchain.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.archlinux.org/"&gt;archlinux&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/baskerville/bspwm"&gt;bspwm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://plan9.bell-labs.com/plan9/"&gt;plan9&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/hut/ranger"&gt;ranger&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://qr.ae/RgRRFb"&gt;Is bitcoinn a good idea?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Merkle_tree"&gt;Merkle tree&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Linked_list"&gt;Linked list&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Hash_list"&gt;Hash List&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.bitcoin.it/wiki/Mixing_service"&gt;Mixing&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm"&gt;椭圆曲线签名算法 (ECDSA)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Checksum"&gt;Checksum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem)"&gt;RSA&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zerocash-project.org/"&gt;Zerocash&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Zero-knowledge_proof"&gt;Zero-knowledge proof&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf"&gt;The Byzantine Generals Problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf"&gt;Leslie Lamport&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.latex-project.org/"&gt;LaTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/TeX"&gt;TeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Donald_Knuth"&gt;Donald Knuth&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Lamport_signature"&gt;Lamport signature&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/06/19/mining/"&gt;PoW’s pros and cons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/07/05/stake/"&gt;PoS’s pros and cons&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274"&gt;DAO and DAC&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Scrypt"&gt;scrypt&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Proof-of-stake"&gt;Proof-of-stake&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/vitalikbuterin"&gt;Vitalik Buterin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/gollum/gollum"&gt;gollum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://szabo.best.vwh.net/smart_contracts_idea.html"&gt;Nick Szabo’s Smart Contracts Idea&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.bitcoin.it/wiki/Script"&gt;Bitcoin Script&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2015/12/27/talk-with-jan-about-bitcoin-and-blockchain.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_82.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_82.m4a</guid>
+      <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
+      <itunes:duration>7879</itunes:duration>
+      <itunes:keywords>bitcoin, blockchain, exchange, linux</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Jan Xie</name>
+          <avatar>http://teahour.fm/images/jan.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#81 和微软的爱恨情仇</title>
       <itunes:author>terry</itunes:author>
