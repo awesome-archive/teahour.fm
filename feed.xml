@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Sun, 27 Dec 2015 00:00:00 +0800</updated>
-    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0800</lastBuildDate>
-    <pubDate>Sun, 27 Dec 2015 00:00:00 +0800</pubDate>
+    <updated>Tue, 19 Jan 2016 00:00:00 +0800</updated>
+    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0800</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,94 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#83 聊聊比特币背后的技术和Blockchain</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学正在进行 &lt;a href="http://v2ex.com/t/248105"&gt;React 全端训练营招生&lt;/a&gt;, 如果报名时说明你是 Teahour 听众, 你将获得 100 元优惠, 我们也将获得 100元的赞助, 感谢你的支持.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期为 Teahour.FM 三周年特别节目, 由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 继续请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 基于 &lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt; 平台的开发.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/"&gt;主持人 Terry 的 blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/salary-from-50rmb-to-100usd/"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.solidot.org/story?mode=flat&amp;amp;sid=46893"&gt;核心开发者宣布比...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/section&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;&lt;strong&gt;本期节目由 &lt;a href="http://sike.io/?ref=teahour"&gt;思客教学&lt;/a&gt; 赞助，思客教学正在进行 &lt;a href="http://v2ex.com/t/248105"&gt;React 全端训练营招生&lt;/a&gt;, 如果报名时说明你是 Teahour 听众, 你将获得 100 元优惠, 我们也将获得 100元的赞助, 感谢你的支持.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;本期为 Teahour.FM 三周年特别节目, 由 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 主持, 继续请到了他的最好基友 &lt;a href="http://weibo.com/p/1005055581685994"&gt;Jan&lt;/a&gt;, 基于 &lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt; 平台的开发.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/"&gt;主持人 Terry 的 blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://terrytai.me/salary-from-50rmb-to-100usd/"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.solidot.org/story?mode=flat&amp;amp;sid=46893"&gt;核心开发者宣布比特币实验失败&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sstephenson.us/"&gt;Sam Stephenson&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/sstephenson/status/687677053219438592"&gt;Sam tweet 1&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/sstephenson/status/687684570175553536"&gt;Sam tweet 2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://guides.rubyonrails.org/asset_pipeline.html"&gt;Asset Pipeline&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://prototypejs.org/"&gt;Prototype JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;Backbone JS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/rbenv/rbenv"&gt;rbenv&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://rvm.io/"&gt;rvm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.holovaty.com/"&gt;Adrian Holovaty&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://twitter.com/adrianholovaty/status/687686819236941824"&gt;Adrian tweet&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://37signals.com/talks/soundslice"&gt;Adrian’s presentation at 37Singal&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.djangoproject.com/"&gt;Django:&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.blockchainlabs.org/"&gt;wanxiang blockchain labs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Deloitte"&gt;德勤(Deloitte)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ethereum.org/"&gt;Ethereum&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://about.me/vitalik_buterin"&gt;Vitalik&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/vbuterin"&gt;Vitalik github account&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/author/vitalik-buterin/"&gt;Vitalik Blog&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://bitcoinmagazine.com/"&gt;Bitcoin Magazine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.python.org/dev/peps/pep-0020/"&gt;The Zen of Python&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.rubymotion.com/"&gt;RubyMotion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Halting_problem"&gt;Halting Problem&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/07/11/toward-a-12-second-block-time/"&gt;Toward a 12-second Block Time&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/posts/understanding-serenity-part-ii-casper"&gt;Casper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://basho.com/products/#riak"&gt;Riak&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://blog.synereo.com/2015/07/23/Ethereum-+-Synereo/"&gt;Formalize Casper&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/ethereum/EIPs/issues/53"&gt;Binary Sharding&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/"&gt;Public vs Private Blockchain&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://raft.github.io/"&gt;Raft Consensus Algorithm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Homomorphic_encryption"&gt;同态加密&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=j23HnORQXvs"&gt;Ethereum: the World Computer&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Thomas_Schelling"&gt;Thomas Schelling&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/"&gt;SchellingCoin&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://lightning.network/"&gt;lightning network&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.jeffcoleman.ca/state-channels/"&gt;State Channels&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ipfs.com"&gt;IPFS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://forum.ethereum.org/categories/swarm"&gt;Swarm&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://storj.io/"&gt;Storj&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://slock.it"&gt;Slock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://etherboard.io/"&gt;百万格子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ethereumpyramid.com/"&gt;庞氏合约&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/randao/randao"&gt;RANDAO&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethereum-alarm-clock.com/"&gt;Alarm Clock&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ethfans.org/"&gt;ethfans&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://cloudmagic.com/"&gt;CloudMagic&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2016/01/19/talk-with-jan-about-ehtereum.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_83.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_83.m4a</guid>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>8911</itunes:duration>
+      <itunes:keywords>ethereum, blockchain</itunes:keywords>
+      <authors>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+        <author>
+          <name>Jan Xie</name>
+          <avatar>http://teahour.fm/images/jan.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#82 聊聊比特币背后的技术和Blockchain</title>
       <itunes:author>terry</itunes:author>
