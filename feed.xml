@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Tue, 19 Jan 2016 00:00:00 +0800</updated>
-    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0800</lastBuildDate>
-    <pubDate>Tue, 19 Jan 2016 00:00:00 +0800</pubDate>
+    <updated>Thu, 03 Mar 2016 00:00:00 +0800</updated>
+    <lastBuildDate>Thu, 03 Mar 2016 00:00:00 +0800</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
     <description>Teahour.fm 专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -26,6 +26,71 @@
     <itunes:category text="Technology"/>
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
+    <item>
+      <title>#84 继续跟 Robbin 聊趋势，谈创业，以及</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 共同主持，再一次邀请了原 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，本期话题是上一期 Robbin 的访谈的延续，主要包括 Robbin 对行业趋势的观察，分析，包括如何准备创业，如何把握行业趋势，作为技术创业者如何成长，如何培养决策能力，以及他是如何作为技术 VP 加入丁香园的故事。&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出。i&lt;/p&gt;
+
+&lt;p&gt;如果你想...&lt;/p&gt;</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/new_logo.png"/>
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://weibo.com/lgn21st"&gt;Daniel&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;Terry&lt;/a&gt; 共同主持，再一次邀请了原 JavaEye（ITEye的前身）的创始人 Robbin 范凯来 Teahour 做客，本期话题是上一期 Robbin 的访谈的延续，主要包括 Robbin 对行业趋势的观察，分析，包括如何准备创业，如何把握行业趋势，作为技术创业者如何成长，如何培养决策能力，以及他是如何作为技术 VP 加入丁香园的故事。&lt;/p&gt;
+
+&lt;p&gt;我们的反馈邮箱是: hi@teahour.fm 欢迎你的来信, 我们将抽取有价值的来信和反馈在节目中播出。i&lt;/p&gt;
+
+&lt;p&gt;如果你想赞助本节目, 也请写邮件到此邮箱, 非常感谢您的支持.&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.dxy.cn"&gt;丁香园&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dbanotes.net"&gt;冯大辉&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/1330551/10569516.htm"&gt;丁香园创始人李天天&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&amp;amp;mid=208942726&amp;amp;idx=1&amp;amp;sn=e90160243a2a75bc40f3a40b24194e7e#rd"&gt;Robbin 加入丁香园&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://macshuo.com"&gt;池建强 MacTalk&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/20355602"&gt;胡适当年为什么选择去台湾？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/476977/6189885.htm"&gt;戴志康&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/246171/8001177.htm"&gt;王志东&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/subview/134451/7071650.htm"&gt;张小龙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://robbinfan.com/blog/47/weixin-robbin"&gt;肉饼铺子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/idea/"&gt;IntelJ IDE&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/ruby/"&gt;RubyMine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/webstorm/"&gt;WebStom&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.jetbrains.com/clion/"&gt;CLion&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/19983139"&gt;CSDN 密码门事件&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/23131107"&gt;携程信用卡泄漏&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/36609263"&gt;163邮箱被破解&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.yinwang.org/blog-cn/2016/01/18/java"&gt;给Java说句公道话－王垠&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.zhihu.com/question/22387034"&gt;张三丰教张无忌武功时为什么叫他忘了？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzA4NzA2NjcyMg==&amp;amp;mid=402172789&amp;amp;idx=1&amp;amp;sn=11703a5575c0e6280ecf26e7341a8f9d&amp;amp;scene=0#wechat_redirect"&gt;产品汪和程序猿的相处之道&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://swift.gg"&gt;Swift.gg&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mindnode.com"&gt;MindNnode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://mp.weixin.qq.com/s?__biz=MzIwNDExMzU1Mg==&amp;amp;mid=401165015&amp;amp;idx=1&amp;amp;sn=90857ced576a6600181c486a6787d6d3&amp;amp;scene=18#wechat_redirect"&gt;技术创业空间&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2016/03/03/robbin2.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_84.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_84.m4a</guid>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0800</pubDate>
+      <itunes:duration>6751</itunes:duration>
+      <itunes:keywords>JavaEye</itunes:keywords>
+      <authors>
+        <author>
+          <name>Daniel Lv</name>
+          <avatar>http://teahour.fm/images/daniel.png</avatar>
+        </author>
+        <author>
+          <name>范凯</name>
+          <avatar>http://teahour.fm/images/robbin_fan.jpg</avatar>
+        </author>
+        <author>
+          <name>Terry Tai</name>
+          <avatar>http://teahour.fm/images/terry.png</avatar>
+        </author>
+      </authors>
+    </item>
     <item>
       <title>#83 这次我们聊聊超酷的Ethereum</title>
       <itunes:author>terry</itunes:author>
@@ -1090,18 +1155,18 @@
     <item>
       <title>#67 用 Ruby 构建 PB 级数据传输平台背后的故事</title>
       <itunes:author>dingding</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO Kgen Bao。&lt;/p&gt;
 
-&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分...&lt;/p&gt;</itunes:summary>
+&lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分享...&lt;/p&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/new_logo.png"/>
-      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO 包桢韡（Kgen）。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期是中国 Ruby 大会特辑四。今年的 RubyConf China 会在十一月一号和二号在北京举办，我在 Teahour 会对 Ruby 大会的 8 位主题演讲嘉宾做会前采访。今天接受采访的是云梯的创始人和秒视的 CTO Kgen Bao。&lt;/p&gt;
 
 &lt;p&gt;Kgen 创立了连接国际和中国大陆网络的神器——云梯。本次大会演讲是他在用 Ruby 构建 PB 级数据传输平台的实践。Kgen 在开发云梯的过程中对选择机房、虚拟化技术、网络线路和系统有着不一样的体验和心得。在这一期，Kgen 想跟创业者们分享他是怎样为了做出稳定好用的云梯，在网络设置、监控和构建大规模数据平台方面做出的努力，甚至会第一次在公开场合向大家解密如何不再被用着奇葩运营商的用户吐槽，如何解决大量 QQ 邮箱用户收不到邮件的问题。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ol&gt;
     &lt;li&gt;&lt;a href="http://rubyconfchina.org"&gt;中国 Ruby 大会&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://catchchat.me"&gt;秒视&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;kgen&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://teahour.fm/2013/07/09/gfw-and-vpncloud.html"&gt;GFW 技术研究和云梯产品故事&lt;/a&gt;&lt;/li&gt;
@@ -1122,7 +1187,7 @@
           <avatar>http://teahour.fm/images/yedingding.png</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
       </authors>
@@ -2625,7 +2690,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
   &lt;li&gt;&lt;a href="http://weibo.com/andor27"&gt;Andor Chen&lt;/a&gt; 提供的 3本 &lt;a href="http://railstutorial-china.org/"&gt;Ruby on Rails Tutorial 中文版&lt;/a&gt;电子书&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://blog.xdite.net/"&gt;XDite&lt;/a&gt; 提供的3本 &lt;a href="https://leanpub.com/rails-101"&gt;Rails 101&lt;/a&gt; 电子书以及 3份一年期的&lt;a href="http://logdown.com/"&gt;Logdown&lt;/a&gt;高级帐号。&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://peatio.com/"&gt;貔貅交易所&lt;/a&gt; 提供的3个比特币红包&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.ytvpn.com/"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt; 提供的3个免费 VPN 帐号(可使用3个月)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
@@ -3966,12 +4031,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -3985,12 +4050,12 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://fengche.co"&gt;Fengche.co&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://gotealeaf.com"&gt;Tealeaf Academy&lt;/a&gt;&lt;/li&gt;
@@ -4009,7 +4074,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
           <avatar>http://teahour.fm/images/kevin.jpg</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
         <author>
@@ -4021,18 +4086,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     <item>
       <title>#22 GFW 技术研究和云梯产品故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;Kgen Bao&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="mailto:kgen.bao@kingaxis.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="mailto:keengenius@gmail.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
@@ -4047,18 +4112,18 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
     &lt;li&gt;&lt;a href="http://railscasts-china.com/episodes/rubyconf-china-2012-vpncloud"&gt;RubyConf...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/section&gt;</itunes:summary>
       <itunes:image href="http://teahour.fm/images/new_logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;包桢韡 (kgen)&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持, &lt;a href="http://yedingdng.com"&gt;Dingding Ye&lt;/a&gt; 联合主持，邀请到&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;的创始人&lt;a href="https://twitter.com/kgen"&gt;Kgen Bao&lt;/a&gt;来聊聊 GFW 技术研究和云梯的创业故事。&lt;/p&gt;
 
 &lt;p&gt;Kgen 的一些联系方式：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href="https://twitter.com/kgen"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#103;&amp;#101;&amp;#110;&amp;#046;&amp;#098;&amp;#097;&amp;#111;&amp;#064;&amp;#107;&amp;#105;&amp;#110;&amp;#103;&amp;#097;&amp;#120;&amp;#105;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#101;&amp;#101;&amp;#110;&amp;#103;&amp;#101;&amp;#110;&amp;#105;&amp;#117;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href="https://www.ytvpn.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ytpub.com"&gt;云梯&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.kingaxis.com"&gt;坐标轴软件&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/防火长城"&gt;GFW&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://openvpn.net"&gt;OpenVPN&lt;/a&gt;&lt;/li&gt;
@@ -4089,7 +4154,7 @@ Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到 M
           <avatar>http://teahour.fm/images/kevin.jpg</avatar>
         </author>
         <author>
-          <name>包桢韡 (kgen)</name>
+          <name>Kgen Bao</name>
           <avatar>http://teahour.fm/images/kgen.jpg</avatar>
         </author>
         <author>
