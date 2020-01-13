@@ -14,13 +14,13 @@
 
 <% content_for :nav do %>
   <ul class="page-nav">
-    <li><%= prev_nav(article.previous_article) %></li>
-    <li><%= next_nav(article.next_article) %></li>
+    <li><%= prev_nav(article.article_previous) %></li>
+    <li><%= next_nav(article.article_next) %></li>
   </ul>
 <% end %>
 
 <div class="player">
-  <audio controls name="media" src="<%= article.data["mp3_link"] %>">
+  <audio name="media" src="<%= article.data["mp3_link"] %>">
   </audio>
 
   <ul class="actions">
@@ -35,10 +35,6 @@
   <small>#<%= article.data['idx'] %> released on <%= article.date.strftime("%m/%d/%Y") %></small>
   <%= article.title %>
 </h2>
-
-<div class="weixin">
-  <%= image_tag "qrcode.jpg" %>
-</div>
 
 <dl>
   <dt>Host:</dt><dd> <%= author(article.data["host"]).name %></dd>
